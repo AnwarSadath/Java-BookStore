@@ -19,7 +19,7 @@
     <div class="container">
 	    <div class="booktable">
 	        <table border="1" cellpadding="5">
-	            <caption>List of Books</caption>
+	            <caption>List of Books...</caption>
 	            <tr>
 	                <th>Title</th>
 	                <th>Author</th>
